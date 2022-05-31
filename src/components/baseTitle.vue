@@ -1,10 +1,10 @@
 <template>
-  <h1>titotolo prova</h1>
+  <h1>titolo</h1>
 </template>
 
 <script>
 export default {
-    name : "baseTitle"
+    name : "BaseTitle"
 
 }
 </script>

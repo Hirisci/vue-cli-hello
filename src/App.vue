@@ -8,13 +8,14 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-import BaseTitle from './components/baseTitle.vue'
+import BaseTitle from './components/BaseTitle.vue'
 
 export default {
   name: 'App',
   components: {
     HelloWorld,
-    BaseTitle
+    BaseTitle,
+
 }
 }
 </script>
